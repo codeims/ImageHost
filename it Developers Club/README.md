@@ -10,5 +10,3 @@
 <img align="left" alt="Coding" width="80" src="https://user-images.githubusercontent.com/90132275/210128757-6ed1c065-7cbd-448f-b3af-67bf1829c938.svg">
 <img align="left" alt="Coding" width="80" src="https://user-images.githubusercontent.com/90132275/210128800-c82eff9c-e378-4137-b49e-6a4189a7b5de.svg">
 
- ![20220626_161121](https://user-images.githubusercontent.com/90132275/210130881-2850a3bb-0d22-4b05-9325-77d2318df282.png)
-
