@@ -1,5 +1,5 @@
 ## it Developers Club Logo
-<img alt="Coding" width="200" src="https://user-images.githubusercontent.com/90132275/210127409-b412c125-d783-46af-8285-d69ca4abdbae.png">
+<img alt="Coding" width="200" src="https://user-images.githubusercontent.com/90132275/210129036-bd833a34-0d29-4dff-b433-14db2a1000ae.svg">
 
 ## Social icons here
 <img align="left" alt="Coding" width="80" src="https://user-images.githubusercontent.com/90132275/210128545-c5471496-5c7c-4b29-8d3d-ac16dbc8877f.svg">
